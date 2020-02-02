@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Aug 13 14:20:50 2019
-
-@author: Chirag
-"""
-
 from tkinter import *
 def func1():
     global top
